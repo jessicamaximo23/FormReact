@@ -1,8 +1,8 @@
 
 # Book Recommendations 📖📝
 
-Book Recommendations Form its a simple form With the characteristics of this project: book recommendations and a form for you to add the book title, author's name, genre, and a brief description of the book.
-It contains two buttons to add the book and then delete it if necessary. All of this using React.
+Book Recommendations Form its a simple form: for you to add the book title, author's name, genre, and a brief description of the book.
+It contains two buttons to add the book and then delete it if necessary. 
 
 
 # Technologies 🖥️
