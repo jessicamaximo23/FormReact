@@ -1,0 +1,36 @@
+.Navigation{
+    background-color: darkkhaki;
+    padding: 10px;
+    margin: 0px;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    display: inline-block;
+    margin-right: 20px;
+
+}
+
+ul, li,a{
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+ul,li a:hover{
+    background-color: rgb(159, 159, 114);
+}
+
+@media screen and (max-width: 600px){
+    .Navigation{
+        padding: 10px;
+    }
+    ul,li{
+        display:block ;
+        margin: 10px;
+    }
+}
